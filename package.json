@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
+  "packageManager": "npm@10.0.0",
   "scripts": {
     "dev": "cross-env NODE_ENV=development tsx server/index.ts",
     "dev:frontend": "vite",
@@ -13,7 +14,6 @@
   },
   "dependencies": {
     "@airwallex/components-sdk": "^1.24.2",
-    "@api/cloudbeds-developers": "file:.api/apis/cloudbeds-developers",
     "@hookform/resolvers": "^3.10.0",
     "@jridgewell/trace-mapping": "^0.3.25",
     "@neondatabase/serverless": "^0.10.4",
