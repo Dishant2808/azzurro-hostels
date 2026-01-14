@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+/* Brandon Text and Toledo Serial fonts will be loaded from your font files */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: hsl(0, 0%, 100%);
+  --foreground: hsl(20, 14.3%, 4.1%);
+  --muted: hsl(60, 4.8%, 95.9%);
+  --muted-foreground: hsl(25, 5.3%, 44.7%);
+  --popover: hsl(0, 0%, 100%);
+  --popover-foreground: hsl(20, 14.3%, 4.1%);
+  --card: hsl(0, 0%, 100%);
+  --card-foreground: hsl(20, 14.3%, 4.1%);
+  --border: hsl(20, 5.9%, 90%);
+  --input: hsl(20, 5.9%, 90%);
+  --primary: hsl(207, 90%, 54%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(60, 4.8%, 95.9%);
+  --secondary-foreground: hsl(24, 9.8%, 10%);
+  --accent: hsl(60, 4.8%, 95.9%);
+  --accent-foreground: hsl(24, 9.8%, 10%);
+  --destructive: hsl(0, 84.2%, 60.2%);
+  --destructive-foreground: hsl(60, 9.1%, 97.8%);
+  --ring: hsl(20, 14.3%, 4.1%);
+  --radius: 0.5rem;
+  
+  /* Azzurro brand colors */
+  --azzurro-navy: hsl(225, 81%, 19.6%);
+  --azzurro-navy-light: hsl(213, 52%, 24.7%);
+  --azzurro-gold: hsl(48, 74%, 78.8%);
+  --azzurro-gray: hsl(33, 4%, 54.5%);
+  --azzurro-green: hsl(151, 51%, 36.3%);
+  --azzurro-cream: hsl(60, 100%, 96.9%);
+  --azzurro-light-green: #f3fadc;
+  --azzurro-600: hsl(225, 81%, 19.6%);
+}
+
+.dark {
+  --background: hsl(240, 10%, 3.9%);
+  --foreground: hsl(0, 0%, 98%);
+  --muted: hsl(240, 3.7%, 15.9%);
+  --muted-foreground: hsl(240, 5%, 64.9%);
+  --popover: hsl(240, 10%, 3.9%);
+  --popover-foreground: hsl(0, 0%, 98%);
+  --card: hsl(240, 10%, 3.9%);
+  --card-foreground: hsl(0, 0%, 98%);
+  --border: hsl(240, 3.7%, 15.9%);
+  --input: hsl(240, 3.7%, 15.9%);
+  --primary: hsl(207, 90%, 54%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(240, 3.7%, 15.9%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --accent: hsl(240, 3.7%, 15.9%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 62.8%, 30.6%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --ring: hsl(240, 4.9%, 83.9%);
+  --radius: 0.5rem;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply antialiased bg-background text-foreground;
+    font-family: 'Brandon Text', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  h1, h2 {
+    font-family: 'Toledo Serial', Georgia, serif;
+    font-weight: bold;
+  }
+
+  .product-title {
+    font-family: 'Brandon Text';
+    font-weight: 600;
+    font-size: 1.5rem; /* ~24px */
+  }
+
+  .price {
+    font-size: 1rem;
+    font-weight: normal;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Hide scrollbar for webkit browsers */
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .scrollbar-hide {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+}
+
+@layer utilities {
+  .font-inter {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .text-15 {
+    font-size: 0.9375rem; /* 15px */
+    line-height: 1.5rem; /* 24px */
+  }
+  
+  .azzurro-gradient {
+    background: linear-gradient(135deg, var(--azzurro-navy), var(--azzurro-navy-light));
+  }
+  
+  .hero-gradient {
+    background: linear-gradient(to bottom, 
+      hsla(225, 81%, 19.6%, 0.6), 
+      hsla(213, 52%, 24.7%, 0.8)
+    );
+  }
+  
+  /* Centered content utilities */
+  .site-container {
+    @apply max-w-7xl mx-auto px-6 sm:px-8 lg:px-12 xl:px-16;
+  }
+  
+  .section-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  .content-centered {
+    @apply max-w-6xl mx-auto;
+  }
+  
+  /* Typography Classes */
+  .page-title {
+    @apply text-4xl lg:text-5xl font-bold;
+    color: var(--azzurro-navy);
+  }
+  
+  .section-heading {
+    @apply text-3xl lg:text-4xl font-bold;
+    color: var(--azzurro-navy);
+  }
+  
+  .subsection-title {
+    @apply text-2xl font-bold;
+    color: var(--azzurro-navy);
+  }
+  
+  .card-title {
+    @apply text-xl font-bold;
+    color: var(--azzurro-navy);
+  }
+  
+  .small-heading {
+    @apply text-15 font-semibold;
+    color: var(--azzurro-navy);
+  }
+  
+  .main-text {
+    @apply text-15;
+    color: var(--azzurro-gray);
+  }
+  
+  .body-text {
+    @apply text-base;
+    color: var(--azzurro-gray);
+  }
+  
+  .small-text {
+    @apply text-sm;
+    color: var(--azzurro-gray);
+  }
+  
+  .extra-small-text {
+    @apply text-xs;
+    color: var(--azzurro-gray);
+  }
+  
+  .price-display {
+    @apply text-4xl font-bold;
+    color: var(--azzurro-navy);
+  }
+  
+  .price-suffix {
+    @apply text-xl;
+    color: var(--azzurro-navy);
+  }
+  
+  .azzurro-navy-bg {
+    background-color: var(--azzurro-navy);
+  }
+  
+  .azzurro-gold-bg {
+    background-color: var(--azzurro-gold);
+  }
+  
+  .azzurro-cream-bg {
+    background-color: var(--azzurro-cream);
+  }
+
+  /* Additional Azzurro utilities */
+  .bg-azzurro-navy {
+    background-color: hsl(225, 81%, 19.6%) !important;
+  }
+  
+  .azzurro-light-green-bg {
+    background-color: var(--azzurro-light-green);
+  }
+  
+  .azzurro-green-text {
+    color: var(--azzurro-green);
+  }
+  
+  /* Scrolling animation for reviews */
+  @keyframes scroll-horizontal {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  
+  .scroll-animation {
+    animation: scroll-horizontal 30s linear infinite;
+    width: calc(200% + 24px); /* Double width plus gap */
+  }
+  
+  .scroll-animation:hover {
+    animation-play-state: paused;
+  }
+  
+  /* Ensure smooth continuous scrolling */
+  .reviews-container {
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  /* Floating animation for WhatsApp button */
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+  /* Promotional banner left-scrolling animation */
+  @keyframes scroll-left {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-scroll-left {
+    animation: scroll-left 20s linear infinite;
+  }
+}

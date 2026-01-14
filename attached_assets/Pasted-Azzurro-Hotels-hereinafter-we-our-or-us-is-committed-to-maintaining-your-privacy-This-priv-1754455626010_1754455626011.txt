@@ -1,0 +1,106 @@
+Azzurro Hotels (hereinafter “we”, “our” or “us”) is committed to maintaining your privacy. This privacy policy outlines Azzurro Hotels's practices with respect to information collected from users who access our website at www.lunahotel.com (“Site”), or otherwise share personal information with us. The policy also contains information about cookies. The following policies are intended to protect your privacy and ensure that your personal information is handled in a safe and responsible manner. We encourage you to refer to this policy on an ongoing basis to stay abreast of our most current privacy policy practices.
+
+Privacy Statement
+Information We Collect
+We collect two types of data and information from Users:
+
+Non-personal Information. The first type of information is un-identified and non-identifiable information, which may be made available or gathered via your use of the Site. We are not aware of the identity of a User from which the Non-personal Information was collected. Non-personal Information which is being collected may include your aggregated usage information and technical information transmitted by your device, including certain software and hardware information (e.g. the type of browser and operating system your device uses, language preference, access time, etc.) in order to enhance the functionality of our Site. We may also collect information on your activity on the Site (e.g. pages viewed, online browsing, clicks, actions, etc.).
+Personal Information. The second type of information which is individually identifiable information, namely information that identifies an individual or may with reasonable effort identify an individual. Such information includes:
+
+
+Device Information: We collect Personal Information from your device. Such information includes geolocation data, IP address, unique identifiers (e.g. MAC address and UUID) and other information which relates to your activity through the Site.
+
+Registration Information: When you sign up for a newsletter on our Site you will be asked to provide us certain details such as: full name and email.
+ 
+Contact Information: When you fill in the Contact Us form on our Site you will be asked to provide us certain details such as: full name, phone number and email.
+
+Booking Information: When making an online booking in our Booking Engine, you will be asked to provide us certain details such as: full name, contact information, demographic information, payment information. New Paragraph
+We receive your Personal Information from various sources:
+
+When you voluntarily provide us your personal details when filling in the form or making an online booking;
+When you use or access our Site in connection with your use of our services;
+From third party providers, services and public registers (for example, traffic analytics vendors).
+Using Information
+We collect two types of data and information from Users:
+
+To keep internal records;
+To send you notices regarding our services, provide you with technical information and responding to any customer service issue you may have;
+To periodically send promotional emails about new products, special offers or other information which we think you may find interesting;
+To serve you advertisements when you use our Site (see more under "Advertisements"); 
+To market our products (see more under "Marketing");
+To customize the Site according to your interests; 
+To conduct statistical and analytical purposes, intended to improve the Site.
+Advertising
+We may use a third-party advertising technology to serve advertisements when you access the Site. This technology uses your information with regards to your use of the Services to serve advertisements to you (by placing third-party cookies on your web browser).
+
+Marketing
+We may use your Personal Information, such as your name, email address, telephone number, etc. ourselves or by using our third party subcontractors for the purpose of providing you with promotional materials, concerning our services, which we believe may interest you. 
+
+
+Out of respect to your right to privacy we provide you within such marketing materials with means to decline receiving further marketing offers from us. If you unsubscribe we will remove your email address or telephone number from our marketing distribution lists. 
+
+﻿
+Please note that even if you have unsubscribed from receiving marketing emails from us, we may send you other types of important e-mail communications without offering you the opportunity to opt out of receiving them. These may include customer service announcements or administrative notices.
+
+Sharing Information
+We do not rent, sell, or share Users’ information with third parties except as described in this Privacy Policy. We may share your Personal Information in a limited number of circumstances, including:
+
+
+
+Third-Party Service Providers: We share personal information with third parties involved in the process of providing services to you. Those third parties are only permitted to use your personal information for the purpose that it has been provided and may not disclose it to any other third party except at our express direction and in accordance with this Privacy Policy.
+
+
+Legal & Regulatory Authorities: We may share your personal information with legal and regulatory authorities or other third parties, when it is required by law, necessary to permit us to exercise our legal rights, to comply with our legal obligations, or necessary to take action regarding illegal activities or to protect the safety of any person.
+
+Business Transitions: If all or part of our company is sold, merged or otherwise transferred, we may transfer your personal information as part of that transition. We may also transfer your personal data to the owners of hotels managed by us.
+User Rights
+You may request to: 
+
+Receive confirmation as to whether or not personal information concerning you is being processed, and access your stored personal information, together with supplementary information. 
+Receive a copy of personal information you directly volunteer to us in a structured, commonly used and machine-readable format. 
+Request rectification of your personal information that is in our control.
+Request erasure of your personal information. 
+Object to the processing of personal information by us. 
+Request to restrict processing of your personal information by us.
+Lodge a complaint with a supervisory authority.
+
+
+However, please note that these rights are not absolute, and may be subject to our own legitimate interests and regulatory requirements.
+
+Retention
+We will retain your personal information for as long as necessary to provide our services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our policies. Retention periods will be determined taking into account the type of information that is collected and the purpose for which it is collected, bearing in mind the requirements applicable to the situation and the need to destroy outdated, unused information at the earliest reasonable time. Under applicable regulations, we will keep records containing client personal data, account opening documents, communications and anything else as required by applicable laws and regulations. We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion.
+
+Security
+We take great care in implementing and maintaining the security of the Site and your information. We employ industry standard procedures and policies to ensure the safety of the information we collect and retain, and prevent unauthorized use of any such information, and we require any third party to comply with similar security requirements, in accordance with this Privacy Policy. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Site, and we make no warranty, express, implied or otherwise, that we will prevent such access.
+
+Cookie Statement
+Cookie Definition
+A cookie is a small piece of information which is sent to your browser while you are viewing a website and is placed on the hard drive of your device (computer, table or smartphone). Cookies are very helpful and can be used for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and our Services quicker and easier. Cookies are also used to help ensure that the advertisements you see are relevant to you and your interests and to compile statistical data on your use of our Services.
+
+Types of Cookies
+The Site uses the following types of cookies:
+
+'session cookies' which are stored only temporarily during a browsing session in order to allow normal use of the system and are deleted from your device when the browser is closed; 
+
+
+'persistent cookies' which are read only by the Site, saved on your computer for a fixed period and are not deleted when the browser is closed. Such cookies are used where we need to know who you are for repeat visits, for example to allow us to store your preferences for the next sign-in; 
+
+'third party cookies' which are set by other online services who run content on the page you are viewing, for example by third party analytics companies who monitor and analyze our web access.
+
+
+Cookies do not contain any information that personally identifies you, but Personal Information that we store about you may be linked, by us, to the information stored in and obtained from cookies. 
+
+
+We also use a tool called “Google Analytics” to collect information about your use of the Site. Google Analytics collects information such as how often users access the Site, what pages they visit when they do so, etc. We use the information we get from Google Analytics only to improve our Site and services. Google Analytics collects the IP address assigned to you on the date you visit sites, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy.
+
+Withdrawal of Consent 
+You can withdraw your consent at any time by setting your browser to disable cookies or to remove all cookies from your browser by following the instructions of your device preferences. However, if you choose to disable cookies, some features of our Site may not operate properly and your online experience may be limited.
+
+Further Information
+We reserve the right to periodically amend or revise the Privacy Policy; material changes will be effective immediately upon the display of the revised Privacy policy. The last revision will be reflected in the "Last modified" section. Your continued use of the Site, following the notification of such amendments on our website, constitutes your acknowledgment and consent of such amendments to the Privacy Policy and your agreement to be bound by the terms of such amendments.
+
+
+If you have any general questions about the Site or the information we collect about you and how we use it, you can contact us at office@azzurrohotels.com.
+
+
+Last Modified 29th April 2024

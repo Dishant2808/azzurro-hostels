@@ -1,0 +1,42 @@
+
+Create a modern, responsive website for a pod-style micro-hotel called Azzurro Pod Hotels located in Darling Harbour, Sydney, Australia.
+✳️ Key Requirements:
+* Visual Style: Clean, minimalist, professional, with blue and white tones (to reflect the “Azzurro” name), eye-catching visuals, soft shadows, rounded corners, and smooth transitions.
+* Layout: Full-screen hero section, multi-section scrollable layout, mobile responsive.
+
+🧩 Structure and Sections:
+1. Hero Section
+    * Background image of Sydney or hotel pods (use placeholder image or Unsplash API).
+    * Title: “Welcome to Azzurro Pod Hotels – Your Cozy Urban Retreat in Sydney”
+    * Subtitle: “Private pods. Shared comfort. Central Sydney.”
+    * CTA Button: “Book Now” → links to https://hotels.cloudbeds.com/en/reservation/bEovmc?currency=aud
+2. About Us
+    * “At Azzurro, we believe in making you feel at home. Whether you're a traveller, student, or working professional, we offer affordable luxury in the heart of Sydney.”
+    * Mention proximity to Sydney attractions: Darling Harbour, ICC, Pyrmont, Barangaroo, etc.
+3. Rooms & Amenities
+    * Feature private pods with privacy curtains, power sockets, reading lights.
+    * Shared spaces: lounge, high-speed Wi-Fi, secure lockers, kitchen, laundry.
+    * Mention 24/7 self-check-in and friendly support.
+4. Gallery
+    * Grid of placeholder images showing pods, lounge, views of Sydney.
+    * Use Unsplash or static sample images.
+5. Location
+    * Google Maps iframe pointing to Pyrmont, Sydney.
+    * Brief note: “Located just minutes from Sydney CBD, ICC, and the Star Casino.”
+6. Booking Section
+    * Prominent section titled: “Ready to Book?”
+    * Button: “Check Availability” → links to the Cloudbeds booking page: 👉 https://hotels.cloudbeds.com/en/reservation/bEovmc?currency=aud
+7. Contact
+    * Email: hello@azzurrohouses.com
+    * Phone: +61 488 880 421
+    * Social media icons (use placeholders): Facebook, Instagram, TikTok
+8. Footer
+    * Copyright © Azzurro Pod Hotels, 2025
+    * “Designed with ❤️ in Sydney”
+
+📌 Extra Notes:
+* Use TailwindCSS or Bootstrap for styling.
+* Use a modern font like Inter or Poppins.
+* Prioritize accessibility (alt tags, semantic HTML).
+* Make all buttons smooth-scroll to relevant sections.
+
